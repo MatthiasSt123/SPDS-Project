@@ -17,4 +17,4 @@ data_4 = read.csv2('cases_municipality/CovidFaelle_GKZ.csv')
 data_4
 summary(data_4)
 
-
+# tttteeeeessst
